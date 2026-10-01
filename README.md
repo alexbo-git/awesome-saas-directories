@@ -212,7 +212,7 @@ While this markdown list is a great reference, browsing a table on GitHub and su
 | 179 | **Nick Launches** | A weekly product launch platform and directory for indie builders to launch products, gain community visibility, and earn backlinks. | 75 | [Submit Here](https://nicklaunches.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 | 180 | **PhotoToolFinder** | A curated directory of online photo editing tools and web-based image utilities. | 0 | [Submit Here](https://phototoolfinder.com/submit?utm_source=launchdb.vercel.app&via=launchdb) |
 
-| - | **Unikt** | French SaaS and startup launch directory built around a French-based community, helping founders gain visibility, SEO backlinks, and product discovery. | - | [Submit Here](https://unikt.fr/soumettre) |
+| - | **Unikt** | French SaaS and startup directory focused on product discovery, founder visibility, and a French-based community. | - | [Submit Here](https://unikt.fr/soumettre) |
 *Domain Rating data is provided by [Domain Rating by Ahrefs](https://ahrefs.com/).*
 
 ## 🤝 How to Contribute
